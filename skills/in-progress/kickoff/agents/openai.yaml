@@ -1,0 +1,5 @@
+interface:
+  display_name: "Kickoff"
+  short_description: "Turn a project brief into a design and full backlog"
+policy:
+  allow_implicit_invocation: false
